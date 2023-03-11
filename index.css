@@ -1,0 +1,12 @@
+.cells {
+  width: 500px;
+  height: 500px;
+}
+
+td.alive {
+  background-color: #000;
+}
+
+td.death {
+  background-color: #fff;
+}
